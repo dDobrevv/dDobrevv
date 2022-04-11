@@ -1,6 +1,6 @@
 ### Here is What I'm Working On! 👋
 
-<!--
+
 - 🔭 I’m currently working on ... developing my skills.
 - 🌱 I’m currently learning ... Python.
 - 👯 I’m looking to collaborate on ... some interesting projects.
@@ -9,4 +9,5 @@
 - 📫 How to reach me: ... at that point is secret 😁
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... i have Master Dergree of Electrical Engineering
+<!--
 -->
