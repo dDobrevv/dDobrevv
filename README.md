@@ -1,3 +1,6 @@
+### Yo, what's up? 👋
+
+<!--
 ### Here is What I'm Working On! 👋
 
 
@@ -9,5 +12,4 @@
 - 📫 How to reach me: ... at that point is secret 😁
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... i have Master Dergree of Electrical Engineering
-<!--
 -->
